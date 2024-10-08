@@ -1,4 +1,4 @@
-﻿# Data Science 
+# Data Science 
 # Machine Learning
 
 Nos últimos anos, a ciência de dados e o machine learning (aprendizado de máquina) emergiram como pilares fundamentais da transformação digital, revolucionando diversas indústrias e moldando o futuro da tecnologia. Estas áreas estão no coração da era da informação, onde dados são gerados a uma velocidade sem precedentes e sua análise se torna crucial para a tomada de decisões informadas.
@@ -23,4 +23,3 @@ Aprendizado por Reforço: O algoritmo aprende através de interações com o amb
 A integração de ciência de dados e machine learning tem levado a inovações impressionantes em diversos setores, incluindo saúde, finanças, marketing, transporte e muito mais. A capacidade de analisar grandes volumes de dados e automatizar decisões complexas está transformando a maneira como as organizações operam e competem no mercado global.
 
 Em resumo, a ciência de dados e o machine learning não são apenas campos de estudo fascinantes, mas também ferramentas poderosas que, quando combinadas, têm o potencial de resolver problemas complexos e criar novas oportunidades em praticamente todos os aspectos da vida moderna.
-
